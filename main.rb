@@ -1,5 +1,5 @@
 puts "Calcualtor"
-puts "entar two numbers to be calcuated: "
+puts "enter two numbers to be calcuated: "
 a=gets.chomp.to_i
 b=gets.chomp.to_i
 puts "If you want to add two numbers enter 'a' "
